@@ -1,0 +1,7 @@
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/api/dto/AndressRequest.java
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/domain/service/BuyService.java
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/api/dto/BuyRequest.java
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/api/dto/infoProviderRequest.java
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/api/controller/StoreController.java
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/StoreMicroserviceApplication.java
+/home/usertqi/Projetos/SpringCloud/microservise/store/src/main/java/br/com/tqi/store/api/dto/ItemsBuyRequest.java
